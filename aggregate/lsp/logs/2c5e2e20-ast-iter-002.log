@@ -1,0 +1,6 @@
+[2026-04-09T17:31:10Z] === AST ITERATION 2 START | repo=python-trio/async_generator sha=2c5e2e20 ===
+[2026-04-09T17:31:10Z] [iter=2] PHASE START: ast repo=python-trio/async_generator sha=2c5e2e20
+[2026-04-09T17:31:10Z] [iter=2] AST SKIPPED — chunks already exist count=1 dir=/home/runner/work/forx/forx/storage/aggregate/ast/2c5e2e201c4dcd40b112eb3193c73f2c2b84d263
+[2026-04-09T17:31:10Z] [iter=2] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/2c5e2e201c4dcd40b112eb3193c73f2c2b84d263/.complete
+[2026-04-09T17:31:10Z] [iter=2] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-04-09T17:31:10Z] [iter=2] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
